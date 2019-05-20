@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "@namespace/cool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}

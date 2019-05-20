@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "workspaces": [
+    "apps/*",
+    "packages/@namespace/*"
+  ],
+  "scripts": {
+    "build": "cd apps/screens && yarn build"
+  }
+}

@@ -5,6 +5,7 @@
   "main": "index.js",
   "license": "UNLICENSED",
   "devDependencies": {
+    "@namespace/parcel-plugin-wow": "*",
     "parcel-bundler": "^1.12.3",
     "ramda": "^0.26.1",
     "typescript": "^3.4.5"
